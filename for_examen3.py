@@ -1,7 +1,7 @@
 Rango_i=int(input('Introduzca rango inferior de la lista a Verificar Num Primos:' ))
 Rango_s=int(input('Introduzca rango superior de la lista a Verificar Num Primos:' ))
 
-print('Verificando que numero es primo o compuesto en el rango de:',Rango_i,' al :', Rango_s)
+print('Verificando que numero  es primo o compuesto en el rango de:',Rango_i,' al :', Rango_s)
 for i in range(Rango_i,Rango_s+1):
 
     

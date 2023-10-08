@@ -11,5 +11,5 @@ while (log==1):
     if (numero==0):
         log=0
 
-print('Total de la suma de numeros:', suma)
+print('Total de la suma de numeros:',  suma)
 
