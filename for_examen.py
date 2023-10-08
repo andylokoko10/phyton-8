@@ -1,6 +1,6 @@
 #Generar 50 numero aleatorios
-rango_if=int(input('Introduzca Rango inferior:'))
-rango_su=int(input('Introduzca Rango superior:'))
+rango_if=int(input('Introduzca Rango inferior :'))
+rango_su=int(input('Introduzca Rango superior :'))
 
 import random
 from random import randint
